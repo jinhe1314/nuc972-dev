@@ -1,6 +1,6 @@
 # This Dockerfile is used to build an sakuli image based on Ubuntu
 
-FROM daocloud.io/kingjin/nuc972_new:master-init
+FROM jinhe1314/nuc972-bulidroot
 
 MAINTAINER Tobias Schneck "tobias.schneck@consol.de"
 ENV REFRESHED_AT 2016-06-01
